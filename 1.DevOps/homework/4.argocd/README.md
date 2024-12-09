@@ -8,4 +8,4 @@ All code here https://github.com/aramattamara/github-actions-samples
 
 ![img.png](argo_img/img.png)
 
-See screenshots with argocd here [argo_img](1.DevOps/homework/4.argocd/argo_img)
+See screenshots with argocd here [argo_img](argo_img)
